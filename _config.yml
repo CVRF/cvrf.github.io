@@ -15,10 +15,10 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "Omar Santos Website"
-keywords:    "omar santos, omar, security, single page"
-description: "testing this singlepage"
-source_link: "https://github.com/santosomar/santosomar.github.io"
+title:       "Common Vulnerability Reporting Framework (CVRF)"
+keywords:    "cvrf, Common Vulnerability Reporting Framework, security, stix, taxii, vulnerability, CVE, vulnerabilities, automation, security automation"
+description: "Common Vulnerability Reporting Framework (CVRF)"
+source_link: "https://github.com/CVRF/cvrf.github.io"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
