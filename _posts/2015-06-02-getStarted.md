@@ -19,11 +19,11 @@ CVRF documents must contain several mandatory, root-level elements. This is done
 * Document Title
 * Document Type
 * Document Publisher
- * Type
+ 	* Type
 * Document Tracking
- * Version
- * Identification
-  * ID
+ 	* Version
+ 	* Identification
+  		* ID
  * Revision History
   * Revision
    * Number
