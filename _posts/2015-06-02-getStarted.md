@@ -1,7 +1,7 @@
 ---
 title: "Get Started"
-bg: turquoise
-color: white   #text color
+bg: blue
+color: white
 fa-icon: shield
 ---
 
