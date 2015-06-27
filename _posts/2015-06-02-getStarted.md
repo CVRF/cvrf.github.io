@@ -19,7 +19,19 @@ CVRF documents must contain several mandatory, root-level elements. This is done
 * Document Title
 * Document Type
 * Document Publisher
-
+ * Type
+* Document Tracking
+ * Version
+ * Identification
+  * ID
+ * Revision History
+  * Revision
+   * Number
+   * Date
+   * Description
+ * Initial Release Date
+ * Current Release Date
+ * Status
 
 The Common Vulnerability Reporting Framework (CVRF) Dictionary of Elements is the definitive reference for the CVRF language, version 1.1.This is a living document managed by the Internet Consortium for Advancement of Security on the Internet (ICASI). It should be maintained and kept current with the CVRF Mindmap and CVRF Schema documents of the same version. Please note that CVRF 1.1 is not backward compatible with 1.0.
 
