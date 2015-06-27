@@ -24,3 +24,5 @@ The Common Vulnerability Reporting Framework (CVRF) Dictionary of Elements is th
 The following dictionary is grouped by schema, but is not derivative documentation from the schema documents themselves. The information contained here is more descriptive and complete.
 
 Click [here](http://www.icasi.org/cvrf-v1-1-dictionary-of-elements/docs/CVRF-dictionary-1.1.pdf) to download a printable version of the CVRF v1.1 Dictionary.
+
+Read the [CVRF v1.1 Dictionary of Elements in ICASI's Website](http://www.icasi.org/cvrf-v1-1-dictionary-of-elements/) to learn the details about each CVRF element.
