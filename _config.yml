@@ -15,7 +15,7 @@ highlighter: pygments
 
 
 ### content configuration ###
-title:       "Common Vulnerability Reporting Framework (CVRF)"
+title:       "CVRF - Common Vulnerability Reporting Framework (CVRF)"
 keywords:    "cvrf, Common Vulnerability Reporting Framework, security, stix, taxii, vulnerability, CVE, vulnerabilities, automation, security automation"
 description: "Common Vulnerability Reporting Framework (CVRF)"
 source_link: "https://github.com/CVRF/cvrf.github.io"
@@ -33,4 +33,3 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
-  
