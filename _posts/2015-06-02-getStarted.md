@@ -8,7 +8,7 @@ fa-icon: shield
 # Get Started
  Learn about how to get started with CVRF and how to use it. The following are some resources to get you started with CVRF:
 
-  * [CVRF WhitePaper](http://www.icasi.org/wp-content/uploads/2015/06/ICASI_CVRF1.1_White_Paper.pdf) <<
+  * [CVRF WhitePaper](http://www.icasi.org/wp-content/uploads/2015/06/ICASI_CVRF1.1_White_Paper.pdf) 
 
 ## CVRF is a Language
 It is a structured way for one machine to communicate with another machine about a topic their human operators find very interesting: information system vulnerabilities. CVRF was built using XML: XML is a meta-language – it doesn't actually do anything. CVRF doesn't actually do anything, either. It is a static framework used to structure, store, and transport information. CVRF is merely a structured container for information about information system vulnerabilities. How that information is ultimately transported, parsed, or used is completely up to its users.
