@@ -27,7 +27,9 @@ Click [here](http://www.icasi.org/cvrf-v1-1-dictionary-of-elements/docs/CVRF-dic
 Read the [CVRF v1.1 Dictionary of Elements in ICASI's Website](http://www.icasi.org/cvrf-v1-1-dictionary-of-elements/) to learn the details about each CVRF element.
 
 ## Other External References
+
 ### Blogs
+
  * [Cisco's CVRF Blog Posts](http://blogs.cisco.com/tag/cvrf)
  * [Microsoft security updates and the Common Vulnerability Reporting Framework, MSRC](http://blogs.technet.com/b/msrc/archive/2012/05/17/microsoft-security-updates-and-the-common-vulnerability-reporting-framework.aspx)
 
